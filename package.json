@@ -1,0 +1,14 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "regular expressions for different searches and validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "Cristian da Gonzatlán",
+  "license": "MIT"
+}
